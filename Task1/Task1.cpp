@@ -33,7 +33,7 @@ namespace Task1
 			//Declaring the result variable for storing the result
 			int result = 0;
 			//Declaring length and width of rectangle
-			int length = 3, width = 4;
+			int length = 2, width = 6;
 
 			//Getting the result using the getPerimeter function from main.c
 			result = getArea(&length, &width);
